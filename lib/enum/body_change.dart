@@ -1,0 +1,4 @@
+enum WeightChangeType {
+  increment,
+  decrement;
+}
